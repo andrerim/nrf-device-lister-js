@@ -33,7 +33,7 @@
     "commander": "^2.20.0",
     "debug": "^4.1.1",
     "pc-nrfjprog-js": "git+https://github.com/NordicSemiconductor/pc-nrfjprog-js.git#master",
-    "serialport": "^9.0.0",
+    "serialport": "^9.0.1",
     "usb": "^1.6.0"
   },
   "devDependencies": {
